@@ -1,0 +1,3 @@
+Dialogo 1: Mi tienda es la mejor del pueblo, deberias comprar algo...
+Dialogo 2: Yo solo vendo armaduras, el armero esta a diez casas de aca
+Dialogo 3: Necesito conseguir materiales para una nueva armadura, ¿Me darias una mano?
