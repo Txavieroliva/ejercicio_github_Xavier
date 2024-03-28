@@ -3,3 +3,4 @@ Dialogo 2: Yo solo vendo armaduras, el armero esta a diez casas de aca
 Dialogo 3: Necesito conseguir materiales para una nueva armadura, ¿Me darias una mano?
 
 ["dialogoNPC-SI"]
+["dialogoNPC-NO]
